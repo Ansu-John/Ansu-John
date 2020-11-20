@@ -1,6 +1,3 @@
-I am Ansu John and have 6 years of data analyst experience with a total of 14 years of IT experience working with multinational companies like IBM, Capgemini, CMA CGM and TCS. 
-I have created this github page to give you a brief and link to the various github repositories in my github.In case of any suggestions please message me in [LinkedIn.](https://www.linkedin.com/in/ansu-john/)
-
 # Big Data Analysis
 Analytics is art to find patterns in data. The ability to divide vast amount of data into logical groups and the ability to find hidden components. Using the below projects we perform data analysis on big data with the goal of discovering useful information, informing conclusions and supporting decision-making. 
 
