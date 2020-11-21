@@ -3,6 +3,8 @@ Analytics is art to find patterns in data. The ability to divide vast amount of 
 
 [ML Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Python.
 
+[ML Classification](https://github.com/Ansu-John/Classification-Models) - demonstrates the various machine learning classification models using Python.
+
 # Big Data Analysis
 Using the below projects we perform data analysis on big data with the goal of discovering useful information, informing conclusions and supporting decision-making. 
 
@@ -17,9 +19,9 @@ Apache Spark MLlib is the Apache Spark machine learning library consisting of co
 
 [Logistic Regression with Spark](https://github.com/Ansu-John/Logistic-Regression-with-Spark) - demonstrates the implementation of Logistic Regression with PySpark.
 
-[ML Clustering](https://github.com/Ansu-John/ML-Clustering) - demonstrates the various clustering algorithms using PySpark.
+[Spark MLlib Clustering](https://github.com/Ansu-John/ML-Clustering) - demonstrates the various clustering algorithms using PySpark.
 
-[ML Classification](https://github.com/Ansu-John/ML-Classification) - demonstrates the various classification algorithms using PySpark.
+[Spark MLlib Classification](https://github.com/Ansu-John/ML-Classification) - demonstrates the various classification algorithms using PySpark.
 
 [Movie Recommender System](https://github.com/Ansu-John/Movie-Recommender-System) - implementation of movie recommendation systems using  Apache Spark ML alternating least squares (ALS)
 
