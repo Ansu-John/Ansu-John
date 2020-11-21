@@ -1,5 +1,10 @@
+# Data Analysis
+Analytics is art to find patterns in data. The ability to divide vast amount of data into logical groups and the ability to find hidden components. 
+
+[ML Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Python.
+
 # Big Data Analysis
-Analytics is art to find patterns in data. The ability to divide vast amount of data into logical groups and the ability to find hidden components. Using the below projects we perform data analysis on big data with the goal of discovering useful information, informing conclusions and supporting decision-making. 
+Using the below projects we perform data analysis on big data with the goal of discovering useful information, informing conclusions and supporting decision-making. 
 
 [Big Data Analysis](https://github.com/Ansu-John/Big-Data-Analysis) - demonstrates the various Spark RDD / Dataframe operations using PySpark library. 
  
