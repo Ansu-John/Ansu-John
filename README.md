@@ -1,19 +1,20 @@
-# Data Analysis
-Analytics is art to find patterns in data. The ability to divide vast amount of data into logical groups and the ability to find hidden components. 
+# Scikit-learn 0.23.2
+The below repositories are build to explore Scikit-learn API functionalities: 
 
-[ML Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Python.
+[ML Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Scikit-learn.
 
-[ML Classification](https://github.com/Ansu-John/Classification-Models) - demonstrates the various machine learning classification models using Python.
+[ML Classification](https://github.com/Ansu-John/Classification-Models) - demonstrates the various machine learning classification models using Scikit-learn.
 
-# Big Data Analysis
-Using the below projects we perform data analysis on big data with the goal of discovering useful information, informing conclusions and supporting decision-making. 
+# PySpark 3.0.1
+The below repositories are build to explore Spark 3.0.1 API functionalities using Python: 
+
+## Spark RDD/DataFrames
 
 [Big Data Analysis](https://github.com/Ansu-John/Big-Data-Analysis) - demonstrates the various Spark RDD / Dataframe operations using PySpark library. 
  
 ## Spark MLlib 
-Apache Spark MLlib is the Apache Spark machine learning library consisting of common learning algorithms and utilities, including classification, regression, clustering, collaborative filtering, dimensionality reduction, and underlying optimization primitives. 
 
-[Extarcting, transforming and selecting features from data](https://github.com/Ansu-John/MLlib-Working-with-Features) - exploer various ways to extarcting, transforming and selecting features from data for machine learning
+[Extarcting, transforming and selecting features from data](https://github.com/Ansu-John/MLlib-Working-with-Features) - explore various ways of extarcting, transforming and selecting features from data for machine learning
 
 [Linear Regression with Spark](https://github.com/Ansu-John/Linear-Regression-with-Spark) - demonstrates the implementation of Linear Regression with PySpark.
 
@@ -31,10 +32,10 @@ Apache Spark MLlib is the Apache Spark machine learning library consisting of co
 ## Deep Learning 
 [Deep Learning Classification](https://github.com/Ansu-John/Deep-Learning-Classification) - implementation of image classification model to identify class the input image belongs to.
 
-[Credit Card Fraud Detection](https://github.com/Ansu-John/Credit-Card-Fraud-Detection) - predict fraudulent credit card transactions using TensorFlow, Keras, K Neighbors, Decision Tree, SVM Regression and Logistic Regression classfiers 
+[Credit Card Fraud Detection](https://github.com/Ansu-John/Credit-Card-Fraud-Detection) - predict fraudulent credit card transactions using TensorFlow, Keras, K Neighbors, Decision Tree, SVM Regression and Logistic Regression classfiers .
 
 # Real Life Data Science Projects 
 
-[IBM HR Analytics Employee Attrition](https://github.com/Ansu-John/IBM-HR-Analytics-Employee-Attrition) - predict using LogisticRegression and RandomForestClassifier
+[IBM HR Analytics Employee Attrition](https://github.com/Ansu-John/IBM-HR-Analytics-Employee-Attrition) - predict using LogisticRegression and RandomForestClassifier.
 
 [AB Testing](https://github.com/Ansu-John/AB-Testing) - exploration of data from database using python libraries : pyodbc and matplotlib libraries. 
