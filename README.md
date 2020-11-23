@@ -39,3 +39,5 @@ The below repositories are build to explore Spark 3.0.1 API functionalities usin
 [IBM HR Analytics Employee Attrition](https://github.com/Ansu-John/IBM-HR-Analytics-Employee-Attrition) - predict using LogisticRegression and RandomForestClassifier.
 
 [AB Testing](https://github.com/Ansu-John/AB-Testing) - exploration of data from database using python libraries : pyodbc and matplotlib libraries. 
+
+[Customer-Segmentation](https://github.com/Ansu-John/Customer-Segmentation) - demonstrates the various machine learning clustering models using python.
