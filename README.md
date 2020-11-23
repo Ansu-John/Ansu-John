@@ -1,3 +1,11 @@
+**Hi there,**
+
+I am Ansu John, and am working as Data Analyst. I joined Github to publish data science projects exploring various analytics techniques and tools and to identify best practices in the process. If you are also interested, please find the project details below.
+
+Do message me in [LinkedIn](https://www.linkedin.com/in/ansu-john/) for any comments / suggestions. 
+
+Enjoy machine learning!
+
 # Scikit-learn 0.23.2
 The below repositories are build to explore Scikit-learn API functionalities: 
 
