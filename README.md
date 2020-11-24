@@ -4,8 +4,6 @@ I am Ansu John, and am working as Data Analyst. I joined Github to publish data 
 
 Do message me in [LinkedIn](https://www.linkedin.com/in/ansu-john/) for any comments / suggestions. 
 
-Enjoy machine learning!
-
 # Scikit-learn 0.23.2
 The below repositories are build to explore Scikit-learn API functionalities: 
 
@@ -16,11 +14,11 @@ The below repositories are build to explore Scikit-learn API functionalities:
 # PySpark 3.0.1
 The below repositories are build to explore Spark 3.0.1 API functionalities using Python: 
 
-## Spark RDD/DataFrames
+### Spark RDD/DataFrames
 
 [Big Data Analysis](https://github.com/Ansu-John/Big-Data-Analysis) - demonstrates the various Spark RDD / Dataframe operations using PySpark library. 
  
-## Spark MLlib 
+### Spark MLlib 
 
 [Extarcting, transforming and selecting features from data](https://github.com/Ansu-John/MLlib-Working-with-Features) - explore various ways of extarcting, transforming and selecting features from data for machine learning
 
@@ -37,7 +35,7 @@ The below repositories are build to explore Spark 3.0.1 API functionalities usin
 # Artificial intelligence (AI)
 [Natural Language Processing](https://github.com/Ansu-John/Natural-Language-Processing) - explore the different NLP options using Python.
 
-## Deep Learning 
+### Deep Learning 
 [Deep Learning Classification](https://github.com/Ansu-John/Deep-Learning-Classification) - implementation of image classification model to identify class the input image belongs to.
 
 [Credit Card Fraud Detection](https://github.com/Ansu-John/Credit-Card-Fraud-Detection) - predict fraudulent credit card transactions using TensorFlow, Keras, K Neighbors, Decision Tree, SVM Regression and Logistic Regression classfiers .
