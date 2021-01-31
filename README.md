@@ -17,9 +17,9 @@ The below repositories are build to explore Scikit-learn / Spark 3.0.1 API funct
 
 [Extarcting, transforming and selecting features from data](https://github.com/Ansu-John/MLlib-Working-with-Features) - explore various ways of extarcting, transforming and selecting features from data for machine learning using PySpark 3.0.1 library. 
 
-[ML Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Scikit-learn 0.23.2 library.
+[Scikit-learn Regression](https://github.com/Ansu-John/Regression-Models) - demonstrates the various machine learning regression models using Scikit-learn 0.23.2 library.
 
-[ML Classification](https://github.com/Ansu-John/Classification-Models) - demonstrates the various machine learning classification models using Scikit-learn 0.23.2 library.
+[Scikit-learn Classification](https://github.com/Ansu-John/Classification-Models) - demonstrates the various machine learning classification models using Scikit-learn 0.23.2 library.
 
 [Linear Regression with Spark](https://github.com/Ansu-John/Linear-Regression-with-Spark) - demonstrates the implementation of Linear Regression using PySpark 3.0.1 library. 
 
