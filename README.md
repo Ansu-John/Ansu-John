@@ -7,6 +7,7 @@ Do message me in [LinkedIn](https://www.linkedin.com/in/ansu-john/) for any comm
 # Tutorials
 
 [Study Notes](https://github.com/Ansu-John/Study-Materials) - consolidated notes.
+
 [Introduction to Python](https://github.com/Ansu-John/Python) - demonstrates the basics of Python coding.
 
 # Data Analysis 
