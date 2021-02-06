@@ -36,8 +36,6 @@ The below repositories are build to explore Scikit-learn / Spark 3.0.1 API funct
 # Artificial intelligence (AI)
 [Natural Language Processing](https://github.com/Ansu-John/Natural-Language-Processing) - explore the different NLP options using Python.
 
-[Deep Learning Classification](https://github.com/Ansu-John/Deep-Learning-Classification) - implementation of image classification model to identify class the input image belongs to.
-
 [Credit Card Fraud Detection](https://github.com/Ansu-John/Credit-Card-Fraud-Detection) - predict fraudulent credit card transactions using TensorFlow, Keras, K Neighbors, Decision Tree, SVM Regression and Logistic Regression classfiers .
 
 # Real Life Data Science Projects 
@@ -46,4 +44,6 @@ The below repositories are build to explore Scikit-learn / Spark 3.0.1 API funct
 
 [AB Testing](https://github.com/Ansu-John/AB-Testing) - exploration of data from database using python libraries : pyodbc and matplotlib libraries. 
 
-[Customer-Segmentation](https://github.com/Ansu-John/Customer-Segmentation) - demonstrates the various machine learning clustering models using python.
+[Customer Segmentation](https://github.com/Ansu-John/Customer-Segmentation) - demonstrates the various python machine learning clustering models.
+
+[Retail Sales Forecasting](https://github.com/Ansu-John/Sales-Forecasting) - predicting sales using various python machine learning models.  
