@@ -6,7 +6,7 @@ Do message me in [LinkedIn](https://www.linkedin.com/in/ansu-john/) for any comm
 
 # ETL
 
-[ETL Verification](https://github.com/Ansu-John/ETL-Verifier) - verification of loaded data after ETL. 
+[ETL Verification](https://github.com/Ansu-John/ETL-Verifier) - verification of loaded data after ETL using scala. 
 
 # Data Analysis 
 
