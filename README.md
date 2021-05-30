@@ -4,11 +4,9 @@ I am Ansu John, and am working as Data Engineer. I joined Github to publish data
 
 Do message me in [LinkedIn](https://www.linkedin.com/in/ansu-john/) for any comments / suggestions. 
 
-# Tutorials
+# ETL
 
-[Study Notes](https://github.com/Ansu-John/Study-Materials) - consolidated notes.
-
-[Introduction to Python](https://github.com/Ansu-John/Python) - demonstrates the basics of Python coding.
+[ETL Verification](https://github.com/Ansu-John/ETL-Verifier) - verification of loaded data after ETL. 
 
 # Data Analysis 
 
@@ -47,3 +45,9 @@ The below repositories are build to explore Scikit-learn / Spark 3.0.1 API funct
 [Customer Segmentation](https://github.com/Ansu-John/Customer-Segmentation) - demonstrates the various python machine learning clustering models.
 
 [Retail Sales Forecasting](https://github.com/Ansu-John/Sales-Forecasting) - predicting sales using various python machine learning models.  
+
+# Tutorials
+
+[Study Notes](https://github.com/Ansu-John/Study-Materials) - consolidated notes.
+
+[Introduction to Python](https://github.com/Ansu-John/Python) - demonstrates the basics of Python coding.
