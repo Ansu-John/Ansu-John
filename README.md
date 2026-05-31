@@ -2,7 +2,7 @@
 
 **Senior Data Engineer** with hands-on experience designing production-grade data pipelines, real-time streaming architectures, AI-augmented data platforms, and cloud-native data warehousing solutions. I build end-to-end systems — from raw ingestion to analytical marts — with a focus on reliability, observability, and modern data stack best practices.
 
-📍 Kochi, India &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ansu-john/) &nbsp;|&nbsp; 
+📍 Kochi, India &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ansu-john/)
 
 ---
 
